@@ -1,34 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kkkcx/kkkcx.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### 第8周周报
+# 第8周周报
 
 一.本周课设要求
 
@@ -79,7 +49,7 @@ N个同学（N通常大于10），每人写一个0~100之间的有理数 (不包
 五.风险分析及解决办法  
 暂无  
 
-### 第9周周报
+# 第9周周报
 
 一.本周课设要求  
 继续完善黄金点游戏，添加前端界面  
@@ -113,6 +83,5 @@ N个同学（N通常大于10），每人写一个0~100之间的有理数 (不包
 
 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 
+Members: 胡斌 康采新
